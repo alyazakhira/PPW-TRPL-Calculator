@@ -1,0 +1,39 @@
+body{
+    background-color: #85888f;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3{
+    padding-top: 10px;
+    color: white;
+    margin: 1rem;
+}
+
+table{
+    margin: 1rem;
+}
+
+.form-floating{
+    background-color: white;
+    border: none;
+    text-align: right;
+    border-radius: 5px;
+}
+
+.btn{
+    margin: 2px;
+    color: white;
+    width: 3rem;
+}
+
+.btn:hover{
+    color: rgba(255, 255, 255, 0.521);
+}
+
+.btn-num{
+    background-color: #8e5a60;
+}
+
+.btn-operation{
+    background-color: #634a57;
+}
